@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "nagman_core"
+]
+
+resolver = "3"
